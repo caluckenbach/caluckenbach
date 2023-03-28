@@ -4,6 +4,7 @@ Hi, I’m cal.
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visual-studio-code&logoColor=white&color=fe640b)
 ![](https://img.shields.io/badge/Editor-neovim-informational?style=flat&logo=neovim&logoColor=white&color=fe640b)
 ![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=alacritty&logoColor=white&color=fe640b)
 ![](https://img.shields.io/badge/Tools-tmux-informational?style=flat&logo=tmux&logoColor=white&color=fe640b)
