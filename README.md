@@ -12,8 +12,6 @@ Hi, I’m cal.
 ![React Badge](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=react&logoColor=white&color=0174BE)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-Framework-informational?style=flat&logo=next.js&logoColor=white&color=0174BE)
 
-![polars Badge](https://img.shields.io/badge/polars-Package-informational?style=flat&logo=polars&logoColor=white&color=ED7D31)
-
 ![VSC Badge](https://img.shields.io/badge/VSV-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=EADBC8)
 ![Cursor Badge](https://custom-icon-badges.demolab.com/badge/Cursor.so-Editor-informational?style=flat&logo=cursor.so&logoColor=white&color=EADBC8)
 ![neovim Badge](https://img.shields.io/badge/neovim-Editor-informational?style=flat&logo=neovim&logoColor=white&color=EADBC8)
@@ -24,6 +22,7 @@ Hi, I’m cal.
 #### 👨🏻‍💻 Currently Learning
 ![](https://img.shields.io/badge/🦜🔗%20LangChain-AI-informational?style=flat&color=FFC436)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=FFC436)
+![polars Badge](https://img.shields.io/badge/polars-Package-informational?style=flat&logo=polars&logoColor=white&color=ED7D31)
 
 <!---
 caldotdev/caldotdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
