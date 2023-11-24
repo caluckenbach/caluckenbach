@@ -20,6 +20,7 @@ Hi, I’m cal.
 ![zsh](https://img.shields.io/badge/zsh-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=EADBC8)
 
 #### 👨🏻‍💻 Currently Learning
+![C Badge](https://img.shields.io/badge/C-Language-informational?style=flat&logo=c&logoColor=white&color=0C356A)
 ![](https://img.shields.io/badge/🦜🔗%20LangChain-AI-informational?style=flat&color=FFC436)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=FFC436)
 ![polars Badge](https://img.shields.io/badge/polars-Package-informational?style=flat&logo=polars&logoColor=white&color=ED7D31)
