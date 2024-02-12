@@ -1,4 +1,4 @@
-**working on being better at building..**
+**striving to build..**
 
 
 `currently studying:`
