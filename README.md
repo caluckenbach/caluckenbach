@@ -6,6 +6,8 @@
 
  ![Zig Badge](https://img.shields.io/badge/Zig-Language-informational?style=flat&logo=zig&logoColor=fafafa&color=bef264) 
 
+ Consultant @[steig](https://dub.sh/steig-github)
+
 
 <!---
 caldotdev/caldotdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
