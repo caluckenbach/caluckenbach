@@ -6,7 +6,7 @@
 
  ![Zig Badge](https://img.shields.io/badge/Zig-Language-informational?style=flat&logo=zig&logoColor=fafafa&color=bef264) 
 
- Consultant @[steig](https://dub.sh/steig-github)
+ **consultant @ [steig](https://dub.sh/steig-github)**
 
 
 <!---
