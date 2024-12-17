@@ -1,12 +1,12 @@
+ **consultant @ [steig](https://dub.sh/steig-github)**
+
 **mostly using:**
 
-![GO Badge](https://img.shields.io/badge/GO-Language-informational?style=flat&logo=go&logoColor=fafafa&color=bef264) ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
+![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) ![GO Badge](https://img.shields.io/badge/GO-Language-informational?style=flat&logo=go&logoColor=fafafa&color=bef264) ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
 
 **currently studying:**
 
- ![Zig Badge](https://img.shields.io/badge/Zig-Language-informational?style=flat&logo=zig&logoColor=fafafa&color=bef264) 
-
- **consultant @ [steig](https://dub.sh/steig-github)**
+ ![Rust Badge](https://img.shields.io/badge/Rust-Language-informational?style=flat&logo=rust&logoColor=fafafa&color=bef264) 
 
 
 <!---
