@@ -2,7 +2,7 @@
 
 **mostly using:**
 
-![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) ![GO Badge](https://img.shields.io/badge/GO-Language-informational?style=flat&logo=go&logoColor=fafafa&color=bef264) ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
+![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) ![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264) ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
 
 **currently studying:**
 
