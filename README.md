@@ -1,4 +1,4 @@
- **ai engineer @ [steig](https://dub.sh/steig-github)**
+ **engineer @ [steig](https://dub.sh/steig-github)**
 
 **mostly using:**
 
